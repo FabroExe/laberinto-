@@ -137,3 +137,5 @@ def main():
 
 if __name__ == "__main__":
     main()
+
+print(" RESULTADO: EL RATON NO PUDO SALIR DEL LABERINTO ")
